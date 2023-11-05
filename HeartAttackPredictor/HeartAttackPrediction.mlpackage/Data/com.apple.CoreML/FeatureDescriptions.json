@@ -1,0 +1,54 @@
+{
+  "Outputs" : {
+    "Heart Attack Risk" : {
+      "MLFeatureShortDescription" : "--"
+    }
+  },
+  "Inputs" : {
+    "Heart Rate" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Smoking" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Diet" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Sleep Hours Per Day" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Cholesterol" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Stress Level" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Physical Activity Days Per Week" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Diabetes" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Blood Pressure" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Previous Heart Problems" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Sex" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Alcohol Consumption" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Obesity" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Age" : {
+      "MLFeatureShortDescription" : "--"
+    }
+  },
+  "TrainingInputs" : {
+
+  }
+}
